@@ -8,7 +8,6 @@ export default function Home() {
     const [emmisionsTotal, setEmmisionsTotal] = useState(0)
     const [itemsTotal, setItemsTotal] = useState(0)
 
-
     useEffect(() => {
         setItemsTotal(finishedItems.length)
         let total = 0
@@ -18,8 +17,8 @@ export default function Home() {
 
     return (
       <>
-        <main className='flex justify-center max-w-5xl mx-auto m-10'>
-            <div className='flex flex-col'>
+        <main className='flex justify-center max-w-2xl mx-auto m-10'>
+            <div className='flex flex-col w-full'>
                 <Title />
                 <Cart finishedItems={finishedItems} setFinishedItems={setFinishedItems} />
                 <Totals finishedItems={finishedItems} setFinishedItems={setFinishedItems} emmisionsTotal={emmisionsTotal}/>
