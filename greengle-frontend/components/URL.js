@@ -17,7 +17,8 @@ export default function Example({setFinishedItems, finishedItems}) {
                 link: input,
                 emmisions: Math.floor(Math.random() * 300),
                 unit: 'g',
-                key: '1'
+                key: '1',
+                brand: response.data.product.brand
             }])
             setLoading(false);
         });

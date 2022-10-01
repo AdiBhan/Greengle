@@ -1,18 +1,22 @@
 import Link from "next/link";
 
-export default function FinishedItem({name, link, emmisions, unit}) {
+export default function FinishedItem({name, link, emmisions, unit, brand}) {
     return (
       <>
         <div className="bg-white shadow-md rounded-xl p-6 grid grid-cols-2">
             <div className="flex flex-col justify-center align-start">
                 <span className="flex">
                     <p className="font-bold pr-1">Item Name: </p>
-                     <p>{name}</p>
+                    <p>{name}</p>
+                </span>
+                <span className="flex">
+                    <p className="font-bold pr-1">Brand: </p>
+                    <p>{brand}</p>
                 </span>
                 <span className="flex">
                     <p className="font-bold pr-1">View on Amazon: </p>
                     <Link href={link}>
-                        <a className="hover:text-blue-500">Link 🔗</a>
+                        <a className="hover:text-blue-500" target="_blank">Link 🔗</a>
                      </Link>
                 </span>
             </div>
