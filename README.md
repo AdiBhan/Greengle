@@ -1,4 +1,4 @@
-# Greengle: Calculating Carbon Cost
+# Greengle: The Carbon Cost of Consumption
 
 Greengle is a companion site for [amazon.com](https://www.amazon.com/) that helps consumers estimate the carbon footprint of their online purchase. 
 
