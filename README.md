@@ -20,11 +20,11 @@ Greengle is a companion site for (amazon.com)[https://www.amazon.com/] that help
 
 Contributors names and contact info
 
-* Adi Bhan
-* Minseok Lee
-* Josh Mayer
-* [Sai Nayunipati](https://github.com/sai-nayunipati)
-* Kit Yan
+* Adi Bhan (Back-end)
+* Minseok Lee (Back-end)
+* Josh Mayer (Front-end)
+* [Sai Nayunipati](https://github.com/sai-nayunipati) (Back-end)
+* Kit Yan (Back-end)
 
 ## Version History
 
