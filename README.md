@@ -30,6 +30,7 @@ Contributors names and contact info
 
 * 0.1
     * Initial Release
+    * Supports intrastate shipments to Boston University
 
 ## License
 
