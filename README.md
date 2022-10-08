@@ -4,7 +4,7 @@ Greengle is a companion site for [amazon.com](https://www.amazon.com/) that help
 
 ## Description
 
-Greengle is a companion site for [amazon.com](https://www.amazon.com/) that helps consumers estimate the carbon footprint of their Amazon purchase.  This project was initially created during an eight-hour BU Spark! mini-hackathon and won the "Best Code" prize.
+Greengle is a companion site for [amazon.com](https://www.amazon.com/) that helps consumers estimate the carbon footprint of their Amazon purchase.  This project was initially created during an eight-hour BU Spark! mini-hackathon and won the "Best Code" prize. It functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the [Radar API](https://radar.com/documentation/api) to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO_2 gas emitted given the type of vehicle.
 
 ## Getting Started
 
