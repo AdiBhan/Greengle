@@ -23,7 +23,7 @@ Contributors names and contact info
 * Adi Bhan
 * Minseok Lee
 * Josh Mayer
-* (Sai Nayunipati)[https://github.com/sai-nayunipati]
+* [Sai Nayunipati](https://github.com/sai-nayunipati)
 * Kit Yan
 
 ## Version History
