@@ -4,7 +4,7 @@ Greengle is a companion site for [amazon.com](https://www.amazon.com/) that help
 
 ## Description
 
-Greengle is a companion site for [amazon.com](https://www.amazon.com/) that helps consumers estimate the carbon footprint of their Amazon purchase. 
+Greengle is a companion site for [amazon.com](https://www.amazon.com/) that helps consumers estimate the carbon footprint of their Amazon purchase.  This project was initially created during an eight-hour BU Spark! mini-hackathon and won the "Best Code" prize.
 
 ## Getting Started
 
