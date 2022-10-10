@@ -18,7 +18,7 @@ Greengle is a companion site for [amazon.com](https://www.amazon.com/) that help
 
 ## Authors
 
-Contributors names and contact info
+Main Contributors
 
 * Adi Bhan (Back-end)
 * Minseok Lee (Back-end)
