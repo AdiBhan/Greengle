@@ -92,9 +92,6 @@ Greengle is a companion site for [Amazon.com](https://www.amazon.com/), that hel
 </tbody>
 </table>
 
-## Acknowledgments
-
-None.
 
 ## 📰 Version History
 
