@@ -1,6 +1,6 @@
-# Greengle 🛒 - The Carbon Cost of Consumption
+# Greengle 🛒 - A carbon footprint calculator website for online shoppers
 <div align='center'>
-<img width="865" alt="thumbnail" src="https://i.postimg.cc/0Qk2ptq9/4c1e8d70e37689acef088c4ae6a66b78.png">
+![image](https://user-images.githubusercontent.com/55467050/201555502-326da970-1ee4-4c9c-900b-4476ff911239.png)
 </div>
 
 ## :mega: Introduction
