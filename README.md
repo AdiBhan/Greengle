@@ -1,4 +1,4 @@
-# Greengle 🛒 - A carbon footprint calculator website for online shoppers
+# Greengle 🛒 - Carbon footprint tracker for online shoppers
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/55467050/201555604-6562c78b-db1e-4a22-87c7-3a7ce64a48a7.png" width="400">
 
