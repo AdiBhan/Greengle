@@ -1,6 +1,6 @@
 # Greengle 🛒 - A carbon footprint calculator website for online shoppers
 <div align='center'>
-<img src="https://user-images.githubusercontent.com/55467050/201555502-326da970-1ee4-4c9c-900b-4476ff911239.png">
+<img src="https://user-images.githubusercontent.com/55467050/201555561-4a0ddbfc-58b1-4e32-9e8e-f8aa0f19c802.png">
 </div>
 
 ## :mega: Introduction
