@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/55467050/201555604-6562c78b-db1e-4a22-87c7-3a7ce64a48a7.png" width="400">
 </div>
 
-## :mega: Introduction
+## 🧐 Introduction
 
 Greengle is a companion site for [Amazon.com](https://www.amazon.com/), that helps consumers estimate the carbon footprint of their Amazon purchase.  This project was initially created during an eight-hour "BU Spark!" sustainability mini-hackathon and won the "Best Code" prize. It functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the [Radar API](https://radar.com/documentation/api) to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO<sub>2</sub> gas emitted given the type of vehicle.
 
@@ -52,7 +52,7 @@ Greengle is a companion site for [Amazon.com](https://www.amazon.com/), that hel
 <td width="250">Frontend Engineer</td>
 <td width="150" align="center">	
 	<a href="https://github.com/JoshMayerr">
-	<img src="https://img.shields.io/badge/christian-655ced?style=social&logo=github"/>
+	<img src="https://img.shields.io/badge/josh-655ced?style=social&logo=github"/>
 	</a>
 
 </td>
